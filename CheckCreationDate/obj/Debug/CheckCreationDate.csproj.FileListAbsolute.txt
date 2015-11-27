@@ -1,0 +1,14 @@
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\bin\Debug\CheckCreationDate.exe.config
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\CheckCreationDate.csprojResolveAssemblyReference.cache
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\MainWindow.g.cs
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\App.g.cs
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\CheckCreationDate_MarkupCompile.cache
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\CheckCreationDate_MarkupCompile.lref
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\bin\Debug\CheckCreationDate.exe
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\bin\Debug\CheckCreationDate.pdb
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\MainWindow.baml
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\CheckCreationDate.g.resources
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\CheckCreationDate.Properties.Resources.resources
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\CheckCreationDate.csproj.GenerateResource.Cache
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\CheckCreationDate.exe
+c:\users\ky.desktop-s7d5stq\documents\visual studio 2015\Projects\CheckCreationDate\CheckCreationDate\obj\Debug\CheckCreationDate.pdb

@@ -1,0 +1,36 @@
+﻿<Window x:Class="CheckCreationDate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckCreationDate"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="525" Icon="1448406160_Time-Machine.ico" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Text="Đường dẫn" VerticalAlignment="Center" Margin="16"/>
+
+        <TextBlock Text="Số giờ kiểm tra" VerticalAlignment="Center" Margin="16"
+                   Grid.Row="1"/>
+        
+        <Button Grid.Column="1" Margin="16" VerticalAlignment="Center" Height="30"
+                 Click="btnPath_Click"
+                 x:Name="btnPath" Background="#00DDDDDD"/>
+
+        <TextBox Grid.Column="1" Grid.Row="1" Margin="16" VerticalAlignment="Center" Height="30"
+                 VerticalContentAlignment="Center" HorizontalContentAlignment="Center"
+                 x:Name="txtCheckedDate"/>
+        
+        <Button Grid.Row="2" Grid.Column="1" Content="Kiểm tra" Width="75" Height="30" Click="Button_Click"/>
+    </Grid>
+</Window>
